@@ -8,4 +8,4 @@ In recent months, I have become actively interested in machine learning.
 
 **Data analysis and visualization tools:** Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, Seaborn, Plotly, Folium.
 
-Databases: PostgreSQL, MySQL, MS SQL Server.
+**Databases:** PostgreSQL, MySQL, MS SQL Server.
